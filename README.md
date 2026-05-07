@@ -1,2 +1,7 @@
-# vcci-indofood-docs
-VCCI Indofood Feature Flow Gitbook
+---
+icon: hand-wave
+---
+
+# Welcome
+
+Hello there, this is Feature Flow Documentation for VCCI Indofood Project.

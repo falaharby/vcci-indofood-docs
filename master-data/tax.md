@@ -1,0 +1,6 @@
+---
+icon: square-dollar
+---
+
+# Tax
+
