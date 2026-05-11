@@ -1,8 +1,4 @@
 ---
-description: >-
-  The Login feature is used to authenticate users before accessing the VCCI
-  dashboard.  Users must enter a valid username and password to obtain an
-  authenticated session.
 icon: right-to-bracket
 ---
 
