@@ -17,16 +17,16 @@ This is Overview Page
 This is List Page
 
 {% tabs %}
-{% tab title="Get List" %}
+{% tab title="1. Get List" %}
+Initial flow at customer page for get list customer data
+
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 
-{% tab title="Search Function" %}
+{% tab title="2. Search Function" %}
+Flow to search customer data based on type which is customer code or customer name.
+
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 {% endtabs %}
 
