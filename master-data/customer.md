@@ -10,17 +10,25 @@ Customer is part of Master Data
 
 This is Overview Pages
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### List Page
 
 This is List Page
 
+{% tabs %}
+{% tab title="Get List" %}
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Search Function
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Search Function" %}
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Create Page
 

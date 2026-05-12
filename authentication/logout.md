@@ -8,4 +8,4 @@ The Logout Feature is used to sign out from account for VCCI Indofood. This is f
 
 ### Feature Flow
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
