@@ -16,22 +16,37 @@ This is Overview Page
 
 This is List Page
 
-{% tabs %}
-{% tab title="1. Get List" %}
+<details>
+
+<summary>Get List</summary>
+
 Initial flow at customer page for get list customer data
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
 
-{% tab title="2. Search Function" %}
+For pagination, use query parameter
+
+```
+page={current_page}
+```
+
+</details>
+
+<details>
+
+<summary>Search Data</summary>
+
 Flow to search customer data based on type which is customer code or customer name.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+
+
+</details>
 
 ### Create Page
 
 This is create Page
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
