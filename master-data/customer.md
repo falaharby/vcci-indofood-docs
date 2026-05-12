@@ -10,7 +10,7 @@ Customer is part of Master Data
 
 This is Overview Page
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### List Page
 
@@ -26,7 +26,7 @@ Initial flow at customer page for get list customer data
 {% tab title="2. Search Function" %}
 Flow to search customer data based on type which is customer code or customer name.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

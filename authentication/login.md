@@ -8,4 +8,4 @@ The Login feature is used to authenticate users before accessing the VCCI dashbo
 
 ### Feature Flow
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
