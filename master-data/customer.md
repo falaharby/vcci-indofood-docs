@@ -38,9 +38,7 @@ page={current_page}
 
 Flow to search customer data based on type which is customer code or customer name.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
