@@ -12,7 +12,7 @@ It is intended to help internal developers quickly understand how the codebase i
 
 ```
 📁 deploy/
-└─ 📁 nginx/          Nginx configuration for production and staging
+└─ 📁 nginx/                  Nginx configuration for production and staging
 
 📁 docker/
 ├─ 📄 Dockerfile              Docker image definition for the app
@@ -22,29 +22,29 @@ It is intended to help internal developers quickly understand how the codebase i
 └─ 📄 docker-compose-stg.yml  Docker Compose config for staging
 
 📁 public/
-├─ 📁 images/   Static images and icons for UI
-└─ 📁 obw/      App-related public assets and static files
+├─ 📁 images/                 Static images and icons for UI
+└─ 📁 obw/                    App-related public assets and static files
 
 📁 src/
 ├─ 📁 app/
-│  ├─ 🧩 components/  Reusable UI components across pages
-│  ├─ 🖼️ layouts/     Global layout wrappers — header, logo, page structure
-│  └─ 📑 pages/       Feature pages by module: Dashboard, Customer, Sales, Purchase, Report…
-├─ 🖼️ assets/         Static assets: images, icons, and other resources
-├─ ⚙️ config/         App configuration and initial setup — env, global init
-├─ 🔀 routes/         Route definitions for page navigation
-├─ 🗄️ store/          Global state management — store, hooks, shared logic
-├─ 🔧 utils/          Helpers & utilities — API client, token, local storage, custom hooks
-├─ 🎨 index.css       Global application styles
-└─ ⚡ main.jsx        Entry point — initializes the React/Vite app
+│  ├─ 🧩 components/          Reusable UI components across pages
+│  ├─ 🖼️ layouts/             Global layout wrappers — header, logo, page structure
+│  └─ 📑 pages/               Feature pages by module: Dashboard, Customer, Sales, Purchase, Report…
+├─ 🖼️ assets/                 Static assets: images, icons, and other resources
+├─ ⚙️ config/                 App configuration and initial setup — env, global init
+├─ 🔀 routes/                 Route definitions for page navigation
+├─ 🗄️ store/                  Global state management — store, hooks, shared logic
+├─ 🔧 utils/                  Helpers & utilities — API client, token, local storage, custom hooks
+├─ 🎨 index.css               Global application styles
+└─ ⚡ main.jsx                Entry point — initializes the React/Vite app
 
-📄 index.html          Main HTML entry point
-📦 package.json        Dependencies, scripts, and project metadata
-🔒 pnpm-lock.yaml      Package lockfile for consistent dependency versions
-⚙️ postcss.config.js   PostCSS configuration
-📖 README.md           General documentation and usage guide
-🎨 tailwind.config.js  Tailwind CSS configuration
-⚡ vite.config.js      Vite bundler configuration
+📄 index.html                 Main HTML entry point
+📦 package.json               Dependencies, scripts, and project metadata
+🔒 pnpm-lock.yaml             Package lockfile for consistent dependency versions
+⚙️ postcss.config.js          PostCSS configuration
+📖 README.md                  General documentation and usage guide
+🎨 tailwind.config.js         Tailwind CSS configuration
+⚡ vite.config.js             Vite bundler configuration
 ```
 
 ***
