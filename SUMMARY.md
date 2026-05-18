@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Folder Structure](folder-structure.md)
 
 ## Authentication
 
