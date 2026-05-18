@@ -4,7 +4,9 @@ icon: folder-tree
 
 # Folder Structure
 
-This page provides an overview of the **oasis-bo-web** project folder structure. It is intended to help internal developers quickly understand how the codebase is organized, where to find specific modules, and where to place new code consistently.
+This page provides an overview of the **oasis-bo-web** project folder structure.&#x20;
+
+It is intended to help internal developers quickly understand how the codebase is organized, where to find specific modules, and where to place new code consistently.
 
 ```
 📁 deploy/
