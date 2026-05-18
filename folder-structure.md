@@ -8,8 +8,6 @@ This page provides an overview of the **oasis-bo-web** project folder structure.
 
 It is intended to help internal developers quickly understand how the codebase is organized, where to find specific modules, and where to place new code consistently.
 
-***
-
 ```
 📁 deploy/
 └─ 📁 nginx/                  Nginx configuration for production and staging
@@ -46,8 +44,6 @@ It is intended to help internal developers quickly understand how the codebase i
 🎨 tailwind.config.js         Tailwind CSS configuration
 ⚡ vite.config.js             Vite bundler configuration
 ```
-
-***
 
 > **Notes:**
 >
