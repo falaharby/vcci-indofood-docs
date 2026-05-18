@@ -7,7 +7,6 @@
 
 * [Login](authentication/login.md)
 * [Logout](authentication/logout.md)
-* [Refresh Token](authentication/refresh-token.md)
 
 ## Master Data
 
