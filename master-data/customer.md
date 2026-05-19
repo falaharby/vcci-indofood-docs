@@ -8,7 +8,7 @@ Customer is part of Master Data
 
 ### Overview
 
-This is Overview Pages
+This is Overview Pages.
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
